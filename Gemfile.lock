@@ -279,6 +279,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll-compose
   jekyll-feed (~> 0.6)
+  jekyll-paginate
   jekyll-theme-basically-basic
   kramdown-parser-gfm
   tzinfo (>= 1, < 3)

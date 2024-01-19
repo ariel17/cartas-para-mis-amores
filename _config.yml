@@ -15,20 +15,17 @@
 # in the templates via {{ site.myvariable }}.
 title: Cartas para mis amores
 # email: arielgerardorios@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/cartas-para-mis-amores" # the subpath of your site, e.g. /blog
+url: "http://ariel17.com.ar" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-basically-basic
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,3 +38,11 @@ theme: jekyll-theme-basically-basic
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+lang: es-AR
+
+author:
+  name: Ariel Gerardo Ríos
+
+# paginate: 5
+# paginate_path: /page:num/
