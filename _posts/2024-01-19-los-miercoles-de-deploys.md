@@ -46,11 +46,13 @@ mesita del living, viendo una película. ¿Qué más harían a estas horas de la
 noche una persona cualquiera? ¿Un deploy? 😒 Seguimos esperando que algo pase.
 Pero nada pasa. 
 
+
 <iframe style="border-radius:12px"
 src="https://open.spotify.com/embed/playlist/6oLL7mjbO4apYWrMSrkwE5?utm_source=generator"
 width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay;
 clipboard-write; encrypted-media; fullscreen; picture-in-picture"
 loading="lazy"></iframe>
+
 
 Tengo música de fondo en mis auriculares: mi mente se va, siempre. Mi mente
 vuela todo el tiempo y de adolescente me di cuenta que el mundo interior, en mi
@@ -139,7 +141,7 @@ Nunca dejen de buscarse por favor 🥰. ¡Los amo!
 <div class="pa-gallery-player-widget" style="width:640px; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/cCF3d73svmy82QN18"
   data-title="CPMA - Los miércoles de deploy"
-  data-description="24 new items · Album by Ariel Gerardo Ríos">
+  data-description="24 items · Album de Ariel Gerardo Ríos">
   <object data="https://lh3.googleusercontent.com/pw/ABLVV86cEYfHHfBRnAVKAvOUlAw8_fsDc0QKahgzbao9uyNYXbtnXbXpSISR6ckFUqFESZUwJB8d1Zf-r37QSS_HfZlnS1azDo2zEZQ2MMC9sGqLVn2E-t7o=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ABLVV84WqB6D6oIAMnl2OzTNNulTLiiacmatXfnEkVLyG6kMG8nX7aUqWpwMfX8gVUNhC7howea9T0wrKp-_yVUHg0mnuo9NUPgqrholfv2ud9tSJLVpNomj=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ABLVV87qBCRDiKUemhMc-zRurI0454q81p3gY4I3IR9KNxQe5wBtpatiolCE1UfJqgqm9k6coi2W2t8Wg1ThJGCg2BeZfO_xZg3_mQV9DoYeTL_aB0xgw3xJ=w1920-h1080"></object>
